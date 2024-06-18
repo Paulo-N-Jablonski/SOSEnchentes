@@ -1,0 +1,20 @@
+{
+  "Doencas": [
+    {
+      "id": 1,
+      "nome": "Leptospiorese",
+      "causas": "Contato com água ou solo contaminados pela urina de animais infectados.",
+      "sintomas": ["Febre alta", "Dor de cabeça", "Sangramentos", "Dor muscular", "Calafrios", "Olhos vermelhos", "Vômitos"],
+      "tratamento": "Antibióticos, repouso, hidratação adequada. Em casos graves, tratamento hospitalar pode ser necessário.",
+      "prevencao": "Evitar o contato com água ou solo contaminados, especialmente após enchentes; Usar equipamentos de proteção adequados ao trabalhar em áreas potencialmente contaminadas; Vacinação de animais de estimação, pois eles podem ser portadores da bactéria; Manter ambientes limpos e livres de lixo, pois isso reduz o habitat de roedores, que são os principais portadores da leptospirose."
+    },
+    {
+      "id": 2,
+      "nome": "Tetâno",
+      "causas": "Inalação de água contaminada ou exposição a agentes patogênicos..",
+      "sintomas": ["Contrações musculares", "Dificuldade para respirar", "Febre alta", "Pressão alta", "Sudorese (suor)"],
+      "tratamento": "Limpeza do ferimento, administração de antitoxina tetânica, antibióticos, cuidados de suporte como hidratação e analgésicos. Em casos graves, pode ser necessária internação em UTI.",
+      "prevencao": "Manter as vacinações em dia, incluindo a vacina contra o tétano (dT/dTP); Limpar e desinfetar ferimentos imediatamente para evitar a entrada de bactérias; Usar equipamentos de proteção adequados ao trabalhar com materiais ou ambientes que possam conter esporos de Clostridium tetani; Evitar o uso de materiais enferrujados ou contaminados para evitar ferimentos que possam permitir a entrada da bactéria no corpo; Seguir as recomendações médicas para revacinação após lesões graves ou cirurgias, se necessário."
+    }
+  ]
+}
